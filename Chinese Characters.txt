@@ -1,0 +1,5 @@
+Chinese Characters
+wǒ, nǐ, nín, hǎo, jiǎo, ne, lǎoshī, mén, tā, shì, de, péngyǒu
+a, ba, dui, haixing, hen, ma, mang, ren, shenme, xuexi, ye, zenmeyang, zuijin, gui, xing
+('jiā','家'), ('jǐ','qu, nar, tushuguan, zhongwu, youkong, yiqi, chifan, shitang, bu, haochi, zhongcan, mei wenti, jintian, shangwu, you ke, mei, dasuan, zuo, youshi, wanshang, shangchang, bu haoyisi, yao, zuoye, mingtian, na, jian
+几'), ('kǒu','口'), ('hē', '喝'), ('jīnnián', '今年'), ('suì', '岁'), ('xiàwǔ', '下午'), ('dōngxī', '东西'), ('shēngrì', '生日'), ('kuàilè', '快乐'), ('yuè', '月'), ('hào', '号')

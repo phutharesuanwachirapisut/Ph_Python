@@ -1,0 +1,27 @@
+Name: Christopher
+Program: C
+G.P.A.: 2.41
+Name: Jenny
+Program: Python
+G.P.A.: 3.01
+Name: Jakarine
+Program: Java
+G.P.A.: 2.73
+Name: Alan
+Program: Python
+G.P.A.: 3.21
+Name: Ben
+Program: Java
+G.P.A.: 2.37
+Name: Peter
+Program: C
+G.P.A.: 3.23
+Name: Mike
+Program: Python
+G.P.A.: 2.75
+Name:Silvia
+Program: Java
+G.P.A. = 2.94
+
+
+
