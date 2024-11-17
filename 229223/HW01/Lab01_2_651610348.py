@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Phutharesuan Wachirapisut
 # 651610348
 # Lab01_2 

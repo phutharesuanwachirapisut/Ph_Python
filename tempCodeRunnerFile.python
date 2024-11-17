@@ -1,0 +1,20 @@
+#!/usr/bin/env python3
+
+a = 5
+b = 7
+
+def function_a(x,y):
+    c = x + y
+    # print(f"Output: {c}")
+    return(c)
+
+v = function_a(a, b)
+print(v)
+
+# _______________________________________________________________________
+
+# def find_r_from_surface_area(surface_area):
+#     print(surface_area)
+
+# def sphere_volume(radius):
+#     print(radius)
